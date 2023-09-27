@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  font-family: Impact, cursive;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Courier New", serif;
+}
+
+body {
+  background-image: url("https://img.freepik.com/free-vector/surfer-big-wave-illustration_1284-21357.jpg?w=900&t=st=1695677428~exp=1695678028~hmac=a347d771549f25e1280349bccdec898bd0874138c5f84f11ead7767fd4a3bf10");
+
+  background-size: cover;
+
+  color: Purple;
+
+}
